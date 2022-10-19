@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello There 👋
 - 🔭 I’m currently working on creating my own portfolio website stay tuned to see its release
 - 🌱 I’m currently working on enhancing my skills in frontend using React.js
 - 💬 Ask me about Anything regarding frontend and if i can help i will .. alos you can ask about machine learnig i a have a littele experiance in that area
