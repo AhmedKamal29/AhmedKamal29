@@ -14,7 +14,7 @@
 
 ## 🔭 I'm currently working on
 
-- Optmizing my profissional profiles
+- optimizing my professional profiles
 - React.JS and Tailwind CSS portfolio website
 
 ## 🌱 I'm currently enhancing and learning
