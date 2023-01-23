@@ -14,8 +14,7 @@
 
 ## 🔭 I'm currently working on
 
-- optimizing my professional profiles
-- React.JS and Tailwind CSS portfolio website
+-Rising up my skills
 
 ## 🌱 I'm currently enhancing and learning
 -🖥 egFWD FullStack Nanodegree
