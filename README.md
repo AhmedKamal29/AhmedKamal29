@@ -2,8 +2,8 @@
 <img src="https://user-images.githubusercontent.com/53512084/196909369-4d71c4bd-5949-4f7d-a228-5db72ac61130.gif" alt=”my banner”>
 </p>
 <hr>
-<p align="center">Hello There 👋🏻</p>
-<h3 align="center">My name is Ahmed Kamal <br> And I am a Software Engineer </h3>
+<h2 align="center">Hello There 👋🏻</h2>
+<h1 align="center">My name is Ahmed Kamal <br> And I am a Software Engineer </h1>
 
 ### 👇🏻 Reach me here 👇🏻
 
