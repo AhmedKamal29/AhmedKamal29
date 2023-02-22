@@ -54,9 +54,9 @@
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-![AhmedKamal29's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedKamal29&show_icons=true&theme=dracula)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedKamal29&show_icons=true&theme=dracula&locale=en&layout=compact" alt="AhmedKamal29's GitHub stats" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKamal29&layout=compact&theme=dracula)
+![AhmedKamal29's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedKamal29&show_icons=true&theme=dracula)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AhmedKamal29&left_color=black&right_color=blue)
  
